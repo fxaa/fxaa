@@ -13,3 +13,5 @@ hi i'm david 🐕
 ### what i'm learning right now
 * how to write good docs
 * rust, elixir, protobufs
+
+avatar: [makowka](https://picrew.me/secret_image_maker/1ATjYgP9eVbd7xP9)
